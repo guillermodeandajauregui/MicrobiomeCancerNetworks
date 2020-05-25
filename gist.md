@@ -5,6 +5,7 @@
 ### 2) Preprocess data
 
 2.1) Microbiome data
+
 2.2) Genetic data 
 
 ### 3) Interacton calculation
